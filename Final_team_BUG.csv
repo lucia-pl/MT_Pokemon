@@ -1,0 +1,61 @@
+Pokemon,Type,Moves,Original Class,Predicted Class
+Shuckle,bug and rock,"steel-roller
+double-edge
+meteor-beam
+string-shot","Offensive
+Offensive
+Offensive
+Defensive","Offensive
+Offensive
+Offensive
+Defensive"
+Forretress,bug and steel,"explosion
+self-destruct
+hyper-beam
+counter","Offensive
+Offensive
+Offensive
+Defensive","Offensive
+Offensive
+Defensive
+Defensive"
+Scizor,bug and steel,"hyper-beam
+giga-impact
+steel-beam
+swords-dance","Offensive
+Offensive
+Offensive
+Defensive","Defensive
+Defensive
+Offensive
+Defensive"
+Scyther,bug and flying,"hyper-beam
+giga-impact
+skull-bash
+swords-dance","Offensive
+Offensive
+Offensive
+Defensive","Defensive
+Defensive
+Offensive
+Defensive"
+Venomoth,bug and poison,"hyper-beam
+giga-impact
+solar-beam
+whirlwind","Offensive
+Offensive
+Offensive
+Defensive","Defensive
+Defensive
+Offensive
+Defensive"
+Butterfree,bug and flying,"hyper-beam
+giga-impact
+solar-beam
+whirlwind","Offensive
+Offensive
+Offensive
+Defensive","Defensive
+Defensive
+Offensive
+Defensive"
